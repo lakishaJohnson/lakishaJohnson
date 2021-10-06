@@ -11,7 +11,7 @@ I just love, love, love, my <strong>cats and plants</strong>, because neither ta
 ![plants](https://i1.wp.com/boingboing.net/wp-content/uploads/2019/08/f19080221.jpg?fit=600%2C488&ssl=1)
 
 <br>
-This is the code I'm most proud of. I wrote it for use in creating my Snowman Game aka Hangman Game. 
+This is the code I'm most proud of. I wrote it for use in creating my Snowman Game aka Hangman Game. It's so perfect. 
 
 ```
 const underscore_word = new Array(word.length).fill("_");
